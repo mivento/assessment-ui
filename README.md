@@ -1,5 +1,3 @@
-<p align="center"><img src="https://mivento.com/assets/img/logo.png" width="300"></p>
-
 # Arayüz Tasarımcısı/Geliştiricisi Projesi
 
 ## Proje Tanımı
